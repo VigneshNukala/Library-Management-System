@@ -34,6 +34,7 @@ export default function Stats() {
           <div className="card-body">
             <hr className="divider" />
             <p className="card-text">Available</p>
+            <div><h1>asdada</h1></div>
           </div>
         </div>
       </div>
