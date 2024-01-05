@@ -45,6 +45,7 @@ export default function Logs() {
                     <td>{i.rollno}</td>
                     <td>{i.bookid}</td>
                     <td>{i.action}</td>
+                    <td>Hello</td>
                   </tr>
                 );
               })}
